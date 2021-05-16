@@ -1,10 +1,8 @@
 import Vue from 'vue'
-import VueResource from 'vue-resource'
 
-Vue.use(VueResource)
 
-const http = Vue.http
+/* const http = Vue.http
 
-http.options.root = 'http://localhost:5000/'
-
-export { http }
+http.options.root = 'https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&apikey=demo'
+ */
+/* export { http } */
